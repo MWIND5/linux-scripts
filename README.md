@@ -11,10 +11,12 @@ Bash-скрипты для администрирования Linux.
 
 ## Использование
 
+```bash
 ./sysinfo.sh
 ./backup.sh /path/to/src /path/to/dst
 ./check-services.sh
 ./logparse.sh
+```
 
 ## Требования
 
